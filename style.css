@@ -1,0 +1,36 @@
+.wf-nicomoji { 
+    font-family: "Nico Moji"; 
+}
+
+.header {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 5vw;
+    font-weight: bold;
+    font-style: unset;   
+}
+
+.container {
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    font-weight: normal;
+    border: dotted black 5px;
+    border-radius: 10px;
+}
+
+.button_area {
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+}
+
+.button {
+    padding: 10px 30px 10px 30px;
+    background-color: lightgreen;
+    font-size: 2vw;
+    border-radius: 20%;
+    margin-right: 15px;
+    margin-top: 20px;
+}
